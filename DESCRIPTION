@@ -1,7 +1,7 @@
 Package: causalASCEND
 Type: Package
 Title: Scalable Two-Tier Causal Discovery for Multi-Omic Data
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: c(
     person("Stephen", "Asiedu", role = c("aut", "cre"),
         email = "stephen.asiedu@kcl.ac.uk",
